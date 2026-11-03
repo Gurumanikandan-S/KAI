@@ -1,0 +1,138 @@
+KPR Institute of Engineering and Technology
+
+KPR Institute of Engineering and Technology is located at KPR Knowledge Campus, Avinashi Road, Arasur, Coimbatore, Tamil Nadu, India.
+
+KPRIET is an autonomous institution affiliated to Anna University and approved by AICTE.
+
+KPRIET offers undergraduate, postgraduate and MBA programmes.
+
+Undergraduate programmes include:
+Artificial Intelligence and Data Science
+Biomedical Engineering
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Computer Science and Engineering (AI & ML)
+Computer Science and Engineering (Cyber Security)
+Computer Science and Business Systems
+Electrical and Electronics Engineering
+Electronics and Communication Engineering
+Electronics Engineering (VLSI Design and Technology)
+Information Technology
+Mechanical Engineering
+Mechatronics Engineering
+
+KPRIET describes itself as an AI Integrated Campus and states that Artificial Intelligence is integrated across teaching, learning, research and innovation.
+
+KPRIET provides student-related facilities and services including library, transport, sports, student affairs and other campus services.
+==================================================
+KPRIET BASIC INFORMATION
+==================================================
+
+Name:
+KPR Institute of Engineering and Technology
+
+Location:
+KPR Knowledge Campus, Avinashi Road, Arasur, Coimbatore, Tamil Nadu.
+
+Institution Type:
+Autonomous engineering institution.
+
+==================================================
+ACADEMIC PROGRAMMES
+==================================================
+
+Undergraduate Programmes:
+- Artificial Intelligence and Data Science
+- Biomedical Engineering
+- Chemical Engineering
+- Civil Engineering
+- Computer Science and Engineering
+- Computer Science and Engineering (AI & ML)
+- Computer Science and Engineering (Cyber Security)
+- Computer Science and Business Systems
+- Electrical and Electronics Engineering
+- Electronics and Communication Engineering
+- Electronics Engineering (VLSI Design and Technology)
+- Information Technology
+- Mechanical Engineering
+- Mechatronics Engineering
+
+==================================================
+DEPARTMENTS
+==================================================
+
+ECE:
+Electronics and Communication Engineering
+
+CSE:
+Computer Science and Engineering
+
+IT:
+Information Technology
+
+AI & DS:
+Artificial Intelligence and Data Science
+
+EEE:
+Electrical and Electronics Engineering
+
+Mechanical:
+Mechanical Engineering
+
+Mechatronics:
+Mechatronics Engineering
+
+Civil:
+Civil Engineering
+
+Chemical:
+Chemical Engineering
+
+Biomedical:
+Biomedical Engineering
+
+==================================================
+CAMPUS FACILITIES
+==================================================
+
+- Library
+- Laboratories
+- Sports facilities
+- Transportation
+- Hostel facilities
+- Student activity facilities
+
+==================================================
+STUDENT ACTIVITIES
+==================================================
+
+Students can participate in:
+- Technical clubs
+- Student chapters
+- Innovation activities
+- Hackathons
+- Project competitions
+- Cultural activities
+- Sports activities
+
+==================================================
+KAI INFORMATION
+==================================================
+
+KAI stands for Kampus AI.
+
+KAI is being developed as a college-specific AI assistant.
+
+The purpose of KAI is to help students access college-related information through a conversational interface.
+
+The initial version uses publicly available institutional information.
+
+Future versions may integrate authorized student-specific information such as:
+- Attendance
+- Marks
+- Timetable
+- Gate pass
+- Academic information
+
+Student-specific information must be accessed only through authorized college systems and appropriate access control.

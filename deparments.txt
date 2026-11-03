@@ -1,0 +1,234 @@
+KPRIET DEPARTMENT MASTER DIRECTORY
+
+CURRENT HEADS OF DEPARTMENT
+
+The following HOD information is based on current information available on official KPRIET department pages and current official KPRIET institutional pages.
+
+---
+
+1. COMPUTER SCIENCE AND ENGINEERING
+
+---
+
+Department: Computer Science and Engineering
+Abbreviation: CSE
+HOD: Dr. Miruna Joe Amali S
+Designation: Professor & Head
+
+---
+
+2. COMPUTER SCIENCE AND ENGINEERING
+   (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)
+
+---
+
+Department: Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+Abbreviation: CSE (AIML)
+HOD: Mr. Pandiya Rajan G
+Designation: Assistant Professor III & HoD In-charge
+
+---
+
+3. COMPUTER SCIENCE AND BUSINESS SYSTEMS
+
+---
+
+Department: Computer Science and Business Systems
+Abbreviation: CSBS
+HOD: Dr. Bazila Banu A
+Designation: Professor & Head
+
+---
+
+4. ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+
+---
+
+Department: Artificial Intelligence and Data Science
+Abbreviation: AI & DS
+HOD: Dr. Saranya N
+Designation: Associate Professor III & HoD In-charge
+
+---
+
+5. CYBER SECURITY
+
+---
+
+Department: Cyber Security
+Abbreviation: CS / Cyber Security
+HOD: Dr. Satinder Kaur
+Designation: Associate Professor & Head
+
+---
+
+6. INFORMATION TECHNOLOGY
+
+---
+
+Department: Information Technology
+Abbreviation: IT
+HOD: Dr. Menaha R
+Designation: Professor & Head
+
+---
+
+7. ELECTRONICS AND COMMUNICATION ENGINEERING
+
+---
+
+Department: Electronics and Communication Engineering
+Abbreviation: ECE
+HOD: Dr. Kathirvelu M
+Designation: Professor & Head
+
+---
+
+8. ELECTRICAL AND ELECTRONICS ENGINEERING
+
+---
+
+Department: Electrical and Electronics Engineering
+Abbreviation: EEE
+HOD: Prof. Indra J
+Designation: Professor & Head
+
+---
+
+9. MECHANICAL ENGINEERING
+
+---
+
+Department: Mechanical Engineering
+Abbreviation: ME
+HOD: Dr. Arulmurgan B
+Designation: Professor & HoD In-charge
+
+---
+
+10. MECHATRONICS ENGINEERING
+
+---
+
+Department: Mechatronics Engineering
+Abbreviation: MI
+HOD: Dr. Kumar M
+Designation: Associate Professor & HoD In-charge
+
+---
+
+11. CIVIL ENGINEERING
+
+---
+
+Department: Civil Engineering
+Abbreviation: CE
+HOD: Dr. Elango K S
+Designation: Professor & Head
+
+---
+
+12. CHEMICAL ENGINEERING
+
+---
+
+Department: Chemical Engineering
+Abbreviation: CH
+HOD: Dr. Annam Renita A
+Designation: Professor & Head
+
+---
+
+13. BIOMEDICAL ENGINEERING
+
+---
+
+Department: Biomedical Engineering
+Abbreviation: BME
+HOD: Dr. Tamilselvan K S
+Designation: Professor & Head
+
+---
+
+14. ELECTRONICS ENGINEERING
+    (VLSI DESIGN AND TECHNOLOGY)
+
+---
+
+Department: Electronics Engineering – VLSI Design and Technology
+Abbreviation: VLSI
+HOD: To be verified from the current dedicated department page before adding.
+Designation: To be verified.
+
+---
+
+15. ENGINEERING PHYSICS
+
+---
+
+Department: Engineering Physics
+Abbreviation: PHY
+HOD: Dr. Ranjith Kumar E
+Designation: Professor & Head
+
+---
+
+16. ENGINEERING CHEMISTRY
+
+---
+
+Department: Engineering Chemistry
+Abbreviation: CHY
+HOD: Dr. Karthikeyan M S
+Designation: Professor & Head
+
+---
+
+17. ENGINEERING MATHEMATICS
+
+---
+
+Department: Engineering Mathematics
+Abbreviation: MATHS
+HOD: Dr. Suriyakumar P
+Designation: Assistant Professor III & HoD
+
+---
+
+18. LANGUAGE AND COMMUNICATION
+
+---
+
+Department: Language and Communication
+Abbreviation: L&C
+HOD: Dr. Jayasudha T
+Designation: Associate Professor III & HoD
+
+---
+
+19. MBA
+
+---
+
+Department: Master of Business Administration
+Abbreviation: MBA
+HOD: Ms. Dhivya S
+Designation: Director / Assistant Professor III & HoD
+
+IMPORTANT NOTE
+
+HOD positions and designations can change because of institutional appointments and administrative changes.
+
+KAI should treat this section as institutional information and should not assume that an old HOD remains current.
+
+When a user asks for the current HOD, KAI should use the latest verified information available in its knowledge base.
+
+SOURCE
+
+KPRIET Official Department Pages:
+https://www.kpriet.ac.in/
+
+KPRIET Current Conference / Institutional Faculty and HOD Listing:
+https://www.kpriet.ac.in/conference/icc-robins
+
+Information checked in September 2026.
